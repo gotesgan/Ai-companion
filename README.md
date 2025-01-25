@@ -31,7 +31,7 @@ This project integrates various components for audio interaction, combining Auto
 
 ### ASR Server (Whisper)
 
-1. Clone the Whisper repository:
+1. Clone the whisper repository:
 
     ```bash
     git clone https://github.com/openai/whisper.git
